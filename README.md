@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @falesmiletus
-- 👀 I’m interested in programing, 3d modeling, leart new and create game 
-- 🌱 I’m currently learning 3d modeling, unity, c# and little things
+- 👀 I’m interested in programing, leart new and create game 
+- 🌱 I’m currently learning unity, c# and little things
 - 💞️ I’m looking to collaborate on in videogame business
 - 📫 How to reach me 
 - 😄 Pronouns: ...
