@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing, leart new and create game 
 - 🌱 I’m currently learning unity, c# and little things
 - 💞️ I’m looking to collaborate on in videogame business
-- 📫 How to reach me 
+- 📫 How to reach me (telegram: @iwanttodiehd ) (email: gamedevfales@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
