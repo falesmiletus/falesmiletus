@@ -17,8 +17,8 @@ My name is **GoldSpin**, I develop games in **Unity** and study programming.
 [![ArtStation](https://img.shields.io/badge/ArtStation-%231F1F1F.svg?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/goldspin)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iwanttodiehd)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamedevfales@gmail.com)
+[![Itch.io](https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://falesmiletus.itch.io/)
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoldSpin&show_icons=true&theme=dark)
-
